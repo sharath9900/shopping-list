@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>mobile shopping list</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Cart">840c221bdb136010b4abb7e8f49619e7</icon>
+        <item_view display_value="shopping item Detail Screen Item View">180cae5bdb136010b4abb7e8f49619ec</item_view>
+        <name>shopping item Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 07:36:35</sys_created_on>
+        <sys_id>980cae5bdb136010b4abb7e8f49619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>shopping item Form Screen</sys_name>
+        <sys_package display_value="shopping list" source="x_595855_shopping">51f9e21bdb136010b4abb7e8f4961913</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="shopping list">51f9e21bdb136010b4abb7e8f4961913</sys_scope>
+        <sys_update_name>sys_sg_form_screen_980cae5bdb136010b4abb7e8f49619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 07:36:35</sys_updated_on>
+        <table>x_595855_shopping_shopping_item</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=980cae5bdb136010b4abb7e8f49619ee"/>
+</record_update>
